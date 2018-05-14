@@ -1,0 +1,26 @@
+
+/*----Default style---*/
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html{
+	background-color: #fff;
+	text-rendering: optimizeLegibility;
+	font-family: 'Varela Round', sans-serif;
+	font-weight:300;
+	font-size:24 px;
+}
+
+body, html {
+    height: 100%;
+}
+
+section{
+	padding:60px 80px;
+}
+
+
+
