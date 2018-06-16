@@ -181,6 +181,8 @@ footer .btn:hover{
 }
 
 
+
+
 #screenshots{
 	display:inline-block;
 }
@@ -188,6 +190,18 @@ footer .btn:hover{
 
 #screenshots img{
   width: 300;
+  height: auto;
+  text-align: center
+}
+
+
+#expert{
+	display:inline-block;
+}
+
+
+#expert img{
+  width: 800;
   height: auto;
   text-align: center
 }
