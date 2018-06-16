@@ -42,6 +42,12 @@ section{
 	font-size: 3em;
 }
 
+.download{
+	display:inline;
+	height:60;
+	padding-bottom:5;
+}
+
 
 
 footer{
@@ -125,6 +131,14 @@ header{
 
 }
 
+.one-line-w{
+	background-color: #FEFEFE;
+	background-size:cover;
+	text-align: center;
+	color: #000000;
+
+}
+
 .support{
 	align-items: center;
 }
@@ -173,8 +187,9 @@ footer .btn:hover{
 
 
 #screenshots img{
-  width: 65%;
+  width: 300;
   height: auto;
+  text-align: center
 }
 
 
