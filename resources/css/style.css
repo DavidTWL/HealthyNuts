@@ -181,8 +181,6 @@ footer .btn:hover{
 }
 
 
-
-
 #screenshots{
 	display:inline-block;
 }
@@ -195,6 +193,7 @@ footer .btn:hover{
 }
 
 
+<<<<<<< HEAD
 #expert{
 	display:inline-block;
 }
@@ -207,6 +206,8 @@ footer .btn:hover{
 }
 
 
+=======
+>>>>>>> parent of 9c07929... bug fixed
 #blue{
 	background-color: #56a0dd;
 	color:#FEFEFE;
